@@ -1,4 +1,4 @@
-package com.springcloudfiy.eurekaclient;
+package com.springcloudfiy.cloudy.eurekaclient;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

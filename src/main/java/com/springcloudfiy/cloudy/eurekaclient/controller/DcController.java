@@ -1,4 +1,4 @@
-package com.springcloudfiy.eurekaclient.controller;
+package com.springcloudfiy.cloudy.eurekaclient.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
