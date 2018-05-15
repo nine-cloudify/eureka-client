@@ -2,7 +2,6 @@ package com.springcloudify.cloudy.eurekaclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.cloud.client.SpringCloudApplication;
-import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringCloudApplication
 public class EurekaClientApplication {
